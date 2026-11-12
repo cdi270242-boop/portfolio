@@ -19,4 +19,7 @@ Chenyu Zhai — Master of Management, Business Data Analytics, University of Win
 
 Core skills: SQL/MySQL, Advanced Excel, STATA/R, business reporting. Python at basic level, used in coursework and portfolio projects.
 
-Portfolio site: https://sites.google.com/view/chenyu-zhai/home
+Portfolio site: https://cdi270242-boop.github.io/portfolio/
+Personal website (Google Sites): https://sites.google.com/view/chenyu-zhai/home
+GitHub: https://github.com/cdi270242-boop/portfolio
+LinkedIn: https://www.linkedin.com/in/chenyu-zhai-94b0b22b2/
